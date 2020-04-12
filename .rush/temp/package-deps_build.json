@@ -1,0 +1,11 @@
+{
+  "files": {
+    "backend/index.js": "96307b7073b3dc13617184fef4df87e008a9d1c4",
+    "backend/package.json": "f40e23e3807e8654716d5a759a76675864e508c8",
+    "backend/requests/addNewEntry.rest": "69b4d0303c5a230c873b58f7b9ac7855a2110c21",
+    "backend/requests/deleteOneEntry.rest": "0307a486f3818429bc639f168e095d3520413476",
+    "backend/requests/updateExistingEntry.rest": "e7df56fd7083c4b01f2443787ca1fdb834ddfff8",
+    "backend/.rush/temp/shrinkwrap-deps.json": "68475bac0ab925cd90dbff7b83b60a691e1aaf25"
+  },
+  "arguments": ""
+}
