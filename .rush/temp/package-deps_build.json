@@ -1,11 +1,14 @@
 {
   "files": {
-    "backend/index.js": "96307b7073b3dc13617184fef4df87e008a9d1c4",
-    "backend/package.json": "f40e23e3807e8654716d5a759a76675864e508c8",
+    "backend/.gitignore": "40b878db5b1c97fc77049537a71bb2e249abe5dc",
+    "backend/index.js": "63ebfdbddccc3771aac0da6af0820eb7f8c31076",
+    "backend/package-lock.json": "97526e88c9ee8f4995f10f4f169107fd57cdda55",
+    "backend/package.json": "2e9643f288d1b32e6722dd7e8c15a62d4f535a7f",
     "backend/requests/addNewEntry.rest": "69b4d0303c5a230c873b58f7b9ac7855a2110c21",
     "backend/requests/deleteOneEntry.rest": "0307a486f3818429bc639f168e095d3520413476",
     "backend/requests/updateExistingEntry.rest": "e7df56fd7083c4b01f2443787ca1fdb834ddfff8",
-    "backend/.rush/temp/shrinkwrap-deps.json": "68475bac0ab925cd90dbff7b83b60a691e1aaf25"
+    "backend/mongo.js": "de588c45e28691cfa64fcede6e18173f73b1c418",
+    "backend/.rush/temp/shrinkwrap-deps.json": "594f14a29dd57b786cabbd5aa8ddd6193878804d"
   },
   "arguments": ""
 }
